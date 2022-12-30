@@ -1,5 +1,3 @@
-![](../posts/screenshot.png)
-
 # Lou's Notes
 
 Shamelessly borrowed from
