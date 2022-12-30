@@ -2,7 +2,8 @@
 
 # Lou's Notes
 
-Shamelessly borrowed from [ry's tinyclouds](https://github.com/ry/tinyclouds.git).
+Shamelessly borrowed from
+[ry's tinyclouds](https://github.com/ry/tinyclouds.git).
 
 Deployments in less than 10 seconds.
 
